@@ -3,19 +3,13 @@ owner: CN-Vito # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
+  - name: CN
     url: https://www.google.com 
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+sites:
+  - name: CN - IRC
     check: "tcp-ping"
-    ipv6: true
+    url: 15.204.175.58
+    port: 6667
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,14 +17,12 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: upptime
-  introTitle:
+  name: Uptime
+  introTitle: Service Status
   introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
