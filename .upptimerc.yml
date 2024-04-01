@@ -4,8 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: CN
-    url: https://www.google.com 
-sites:
+    url: https://cosanostra.pw
   - name: CN - IRC
     check: "tcp-ping"
     url: 15.204.175.58
