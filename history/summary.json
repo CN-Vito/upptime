@@ -4,19 +4,19 @@
     "url": "https://cosanostra.pw",
     "icon": "https://icons.duckduckgo.com/ip3/cosanostra.pw.ico",
     "slug": "cn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 467,
-    "timeWeek": 681,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 659,
+    "timeDay": 502,
+    "timeWeek": 669,
+    "timeMonth": 659,
+    "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-04-27": 0
+      "2024-04-27": 8
     }
   },
   {
