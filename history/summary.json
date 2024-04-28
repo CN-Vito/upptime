@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosanostra.pw.ico",
     "slug": "cn",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 659,
-    "timeDay": 502,
-    "timeWeek": 669,
-    "timeMonth": 659,
-    "timeYear": 659,
-    "dailyMinutesDown": {
-      "2024-04-27": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 663,
+    "timeDay": 577,
+    "timeWeek": 658,
+    "timeMonth": 663,
+    "timeYear": 663,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CN - IRC",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 24,
-    "timeDay": 2,
+    "time": 25,
+    "timeDay": 67,
     "timeWeek": 34,
-    "timeMonth": 24,
-    "timeYear": 24,
+    "timeMonth": 25,
+    "timeYear": 25,
     "dailyMinutesDown": {}
   }
 ]
