@@ -4,18 +4,20 @@
     "url": "https://cosanostra.pw",
     "icon": "https://icons.duckduckgo.com/ip3/cosanostra.pw.ico",
     "slug": "cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 822,
-    "timeWeek": 716,
-    "timeMonth": 685,
-    "timeYear": 687,
-    "dailyMinutesDown": {}
+    "time": 679,
+    "timeDay": 597,
+    "timeWeek": 687,
+    "timeMonth": 676,
+    "timeYear": 679,
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   },
   {
     "name": "CN - IRC",
