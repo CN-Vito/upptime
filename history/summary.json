@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosanostra.pw.ico",
     "slug": "cn",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 677,
-    "timeDay": 675,
-    "timeWeek": 673,
-    "timeMonth": 668,
-    "timeYear": 677,
+    "uptimeYear": "99.97%",
+    "time": 676,
+    "timeDay": 594,
+    "timeWeek": 626,
+    "timeMonth": 664,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2024-05-04": 44
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 69,
-    "timeWeek": 34,
-    "timeMonth": 27,
+    "timeDay": 2,
+    "timeWeek": 25,
+    "timeMonth": 25,
     "timeYear": 29,
     "dailyMinutesDown": {}
   }
