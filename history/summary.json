@@ -8,7 +8,7 @@
     "uptime": "91.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.37%",
+    "uptimeMonth": "70.35%",
     "uptimeYear": "91.48%",
     "time": 687,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 730,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-07-16": 699,
+      "2024-07-16": 705,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -33,11 +33,11 @@
     "url": "15.204.175.58",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cn-irc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 28,
     "timeDay": 22,
@@ -45,7 +45,7 @@
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 6
     }
   }
 ]
