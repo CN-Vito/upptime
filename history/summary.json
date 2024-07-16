@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosanostra.pw.ico",
     "slug": "cn",
     "status": "down",
-    "uptime": "91.90%",
+    "uptime": "91.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.95%",
-    "uptimeYear": "91.90%",
+    "uptimeMonth": "70.37%",
+    "uptimeYear": "91.48%",
     "time": 687,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 730,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-07-16": 5,
+      "2024-07-16": 699,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -33,7 +33,7 @@
     "url": "15.204.175.58",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cn-irc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +44,8 @@
     "timeWeek": 20,
     "timeMonth": 28,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   }
 ]
